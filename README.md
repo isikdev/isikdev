@@ -1,6 +1,6 @@
 ![Header](https://github.com/isikdev/isikdev/blob/main/assets/fon.png)
 
-# Я джуниор верстальщик
+# Я просто верстальщик
 Laungeges and Tools
 
 ![HTML](https://img.shields.io/badge/HTML-ffa500?style=for-the-badge&logo=HTML&logoColor=ffa500)
