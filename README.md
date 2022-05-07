@@ -9,4 +9,5 @@ Laungeges and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=JavaScript&logoColor=f0db4f)
 ![Jquery](https://img.shields.io/badge/Jquery-0868ac?style=for-the-badge&logo=Jquery&logoColor=0868ac)
 ![Figma](https://img.shields.io/badge/Figma-e64a1c?style=for-the-badge&logo=Figma&logoColor=e64a1c)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7911ee?style=for-the-badge&logo=Bootstrap&logoColor=7911ee)
 Follow me
