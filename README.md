@@ -1,6 +1,6 @@
 ![Header](https://github.com/isikdev/isikdev/blob/main/assets/fon.png)
 
-# Я просто верстальщик
+# Front-end Developer
 
 ![HTML](https://img.shields.io/badge/HTML-222222?style=for-the-badge&logo=HTML&logoColor=ffa500)
 ![CSS](https://img.shields.io/badge/Css-222222?style=for-the-badge&logo=CSS&logoColor=2965f1)
