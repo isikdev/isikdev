@@ -1,4 +1,3 @@
-![Header](https://github.com/isikdev/isikdev/blob/main/fon.png)
 
 # Front-end Developer
 
