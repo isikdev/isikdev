@@ -8,3 +8,6 @@
 ![Jquery](https://img.shields.io/badge/Jquery-222222?style=for-the-badge&logo=Jquery&logoColor=0868ac)
 ![Figma](https://img.shields.io/badge/Figma-222222?style=for-the-badge&logo=Figma&logoColor=e64a1c)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-222222?style=for-the-badge&logo=Bootstrap&logoColor=7911ee)
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isikdev&theme=dark&background=000000)](https://git.io/streak-stats)
