@@ -17,4 +17,4 @@
 
 ### :fire: Commonly Used Programming Languages : 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isikdev)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats]](https://github-readme-stats.vercel.app/api?username=isikdev&themegotham=dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isikdev&themegotham=transparent&show_icons=true)
