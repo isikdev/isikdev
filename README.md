@@ -12,3 +12,8 @@
 ![Laravel](https://img.shields.io/badge/Laravel-222222?style=for-the-badge&logo=Laravel&logoColor=8993be)
 ![MySQL](https://img.shields.io/badge/Mysql-222222?style=for-the-badge&logo=MySQL&logoColor=00758f)
 ![MongoDB](https://img.shields.io/badge/MongoDB-222222?style=for-the-badge&logo=MongoDB&logoColor=3FA037)
+![PostgreSQL](https://img.shields.io/badge/MongoDB-222222?style=for-the-badge&logo=MongoDB&logoColor=0064a5)
+![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=MongoDB&logoColor=306998)
+![Flask](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=MongoDB&logoColor=FFD43B)
+![FastAPI](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=MongoDB&logoColor=FFD43B)
+![Django](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=MongoDB&logoColor=FFD43B)
